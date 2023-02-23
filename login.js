@@ -6,7 +6,7 @@ loginForm.addEventListener('submit', async (event) => {
   const username = document.querySelector('#username').value;
   const password = document.querySelector('#password').value;
 
-  const response = await fetch('/users?username=' + username + '&password=' + password);
+  const response = await fetch('https://nice-teal-chinchilla-suit.cyclic.app/users?username=' + username + '&password=' + password);
 
   if (response.ok) {
     const user = await response.json();
@@ -24,7 +24,7 @@ const middlewares = jsonServer.defaults();
 server.use(middlewares);
 server.use(jsonServer.bodyParser);
 
-server.post('/users', (req, res) => {
+server.post('https://nice-teal-chinchilla-suit.cyclic.app/users', (req, res) => {
   const username = req.body.username;
   const password = req.body.password;
 
