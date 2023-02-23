@@ -1,0 +1,92 @@
+{
+  "Blogs": [
+    {
+      "title": "DARIUS",
+      "category": "Maintainance",
+      "messageB": "THIS IS A NEW ARTICAL YOU HAVE TO E=READ THIS ARTICLE BECAUSE IT IS IMPORTANT TO YOU",
+      "image": "https://thumbs.dreamstime.com/z/concept-learning-programming-languages-labeled-coding-easy-concept-learning-programming-languages-labeled-coding-205386066.jpg",
+      "id": 1
+    },
+    {
+      "title": "Programming ",
+      "category": "Software",
+      "messageB": "I hope this letter finds you well and happy. As I write this, I am filled with anticipation and excitement for all that you have accomplished and experienced since this moment. I trust that you have followed your dreams and taken risks to pursue the life you have always wanted.\n\nLooking back to the present, I hope that you remember the goals you set for yourself and the steps you took to achieve them. I hope that you have continued to learn and grow, both personally and professionally. I trust that you have developed new skills, made new connections, and discovered new passions along the way.\n\nI also hope that you have taken time for yourself and those you love.",
+      "image": "https://thumbs.dreamstime.com/z/software-web-development-programming-concept-languages-java-program-239627335.jpg",
+      "id": 2
+    },
+    {
+      "title": "DARIUS",
+      "category": "Maintainance",
+      "messageB": "New Blog",
+      "image": "https://thumbs.dreamstime.com/z/software-web-development-programming-concept-languages-java-program-239627335.jpg",
+      "id": 3
+    }
+  ],
+  "Comments": [
+    {
+      "names": "Darius",
+      "email": "muheto@gmail.com",
+      "textarea": "skankncsdklnc;klsnvcksndcknsdlaks",
+      "id": 2
+    }
+  ],
+  "Project": [
+    {
+      "title": "new Project",
+      "image": "https://thumbs.dreamstime.com/z/concept-learning-programming-languages-labeled-coding-easy-concept-learning-programming-languages-labeled-coding-205386066.jpg",
+      "Description": " One of my bigest archievement is that I built my first portfolio using ReactJS and tailwindcss from scratch.",
+      "date": "Thu Feb 23 2023",
+      "id": 1
+    },
+    {
+      "title": "My Portfolio",
+      "image": "https://thumbs.dreamstime.com/z/concept-learning-programming-languages-labeled-coding-easy-concept-learning-programming-languages-labeled-coding-205386066.jpg",
+      "Description": "The Portifolio of mine. This my work it prove who i am and that i can capable of. try me The Portifolio of mine. This my work it prove who i am and that i can capable of. try me",
+      "date": "Thu Feb 23 2023",
+      "id": 2
+    },
+    {
+      "title": "MY Brand",
+      "image": "https://www.techrepublic.com/wp-content/uploads/2021/02/programming-coding.jpg",
+      "Description": " One of my bigest archievement is that I built my first portfolio using ReactJS and tailwindcss from scratch.",
+      "date": "Thu Feb 23 2023",
+      "id": 3
+    },
+    {
+      "title": "Online Self Branding",
+      "image": "https://www.techrepublic.com/wp-content/uploads/2021/02/programming-coding.jpg",
+      "Description": "The Portifolio of mine. This my work it prove who i am and that i can capable of. try me The Portifolio of mine. This my work it prove who i am and that i can capable of. try me",
+      "date": "Thu Feb 23 2023",
+      "id": 4
+    },
+    {
+      "title": "DARIUS",
+      "image": "https://thumbs.dreamstime.com/z/concept-learning-programming-languages-labeled-coding-easy-concept-learning-programming-languages-labeled-coding-205386066.jpg",
+      "Description": "sknakcnnskoncsko",
+      "date": "Thu Feb 23 2023",
+      "id": 5
+    }
+  ],
+  "Auth": [
+    {
+      "email": "muhedarius96@gmail.com",
+      "password": "Najudykid@22",
+      "id": 1
+    },
+    {
+      "email": {},
+      "password": "Najudykid@22",
+      "id": 2
+    },
+    {
+      "email": {},
+      "password": "Najudykid",
+      "id": 3
+    },
+    {
+      "email": {},
+      "password": "",
+      "id": 4
+    }
+  ]
+}
