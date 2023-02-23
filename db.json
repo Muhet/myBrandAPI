@@ -67,28 +67,7 @@
       "id": 5
     }
   ],
-  "Auth": [
-    {
-      "email": "muhedarius96@gmail.com",
-      "password": "Najudykid@22",
-      "id": 1
-    },
-    {
-      "email": {},
-      "password": "Najudykid@22",
-      "id": 2
-    },
-    {
-      "email": {},
-      "password": "Najudykid",
-      "id": 3
-    },
-    {
-      "email": {},
-      "password": "",
-      "id": 4
-    }
-  ],
+ 
   "users": [
     {
       "id": 1,
