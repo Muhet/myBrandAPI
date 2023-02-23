@@ -88,5 +88,17 @@
       "password": "",
       "id": 4
     }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "username": "muhedarius@gmail.com",
+      "password": "Najudykid@22"
+    },
+    {
+      "id": 2,
+      "username": "manzi",
+      "password": "123"
+    }
   ]
 }
