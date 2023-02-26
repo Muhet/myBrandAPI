@@ -3,26 +3,32 @@
     {
       "title": "DARIUS",
       "category": "Maintainance",
-      "messageB": "THIS IS A NEW ARTICAL YOU HAVE TO E=READ THIS ARTICLE BECAUSE IT IS IMPORTANT TO YOU",
+      "messageB": "THIS IS A NEW ARTICAL YOU HAVE TO READ THIS ARTICLE BECAUSE IT IS IMPORTANT TO YOU",
       "image": "https://thumbs.dreamstime.com/z/concept-learning-programming-languages-labeled-coding-easy-concept-learning-programming-languages-labeled-coding-205386066.jpg",
       "id": 1
     },
     {
       "title": "Programming ",
-      "category": "Software",
+      "category": "Computr",
       "messageB": "I hope this letter finds you well and happy. As I write this, I am filled with anticipation and excitement for all that you have accomplished and experienced since this moment. I trust that you have followed your dreams and taken risks to pursue the life you have always wanted.\n\nLooking back to the present, I hope that you remember the goals you set for yourself and the steps you took to achieve them. I hope that you have continued to learn and grow, both personally and professionally. I trust that you have developed new skills, made new connections, and discovered new passions along the way.\n\nI also hope that you have taken time for yourself and those you love.",
       "image": "https://thumbs.dreamstime.com/z/software-web-development-programming-concept-languages-java-program-239627335.jpg",
       "id": 2
     },
     {
-      "title": "DARIUS",
-      "category": "Maintainance",
-      "messageB": "New Blog",
-      "image": "https://thumbs.dreamstime.com/z/software-web-development-programming-concept-languages-java-program-239627335.jpg",
+      "title": "Telephone Uses",
+      "category": "Software",
+      "messageB": "Be aware of using your phone because they can harm you ",
+      "image": "https://images.unsplash.com/photo-1514464750060-00e6e34c8b8c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80",
       "id": 3
     }
   ],
   "Comments": [
+    {
+      "names": "Darius",
+      "email": "muheto@gmail.com",
+      "textarea": "skankncsdklnc;klsnvcksndcknsdlaks",
+      "id": 1
+    },
     {
       "names": "Darius",
       "email": "muheto@gmail.com",
@@ -51,33 +57,51 @@
       "Description": " One of my bigest archievement is that I built my first portfolio using ReactJS and tailwindcss from scratch.",
       "date": "Thu Feb 23 2023",
       "id": 3
+    }
+  ],
+  "profileUpdate": [
+    {
+      "lastName": "Darius",
+      "firstName": "Muheto",
+      "phone": "0786964660",
+      "password": "Najudykid@22",
+      "username": "muhedarius@gmail.com",
+      "address": "Kigali-Nyamirambo",
+      "id": 1
+    }
+  ],
+  "messages": [
+    {
+      "date": "Thu Feb 23 2023",
+      "Names": "Uwamahora Eliane",
+      "Phone": "0785804938",
+      "Emails": "uwamahoroeliane016@gmail.com",
+      "T_Message": "Hey how are you",
+      "id": 1
     },
     {
-      "title": "Online Self Branding",
-      "image": "https://www.techrepublic.com/wp-content/uploads/2021/02/programming-coding.jpg",
-      "Description": "The Portifolio of mine. This my work it prove who i am and that i can capable of. try me The Portifolio of mine. This my work it prove who i am and that i can capable of. try me",
-      "date": "Thu Feb 23 2023",
+      "date": "Fri Feb 24 2023",
+      "Names": "Kabila Kabera",
+      "Phone": "0788109103",
+      "Emails": "kkabila90@gmail.com",
+      "T_Message": "Hey Darius",
+      "id": 3
+    },
+    {
+      "date": "Sat Feb 25 2023",
+      "Names": "Leiven",
+      "Phone": "0785804938",
+      "Emails": "uwamahoroeliane016@gmail.com",
+      "T_Message": "hey hey how are you",
       "id": 4
     },
     {
-      "title": "DARIUS",
-      "image": "https://thumbs.dreamstime.com/z/concept-learning-programming-languages-labeled-coding-easy-concept-learning-programming-languages-labeled-coding-205386066.jpg",
-      "Description": "sknakcnnskoncsko",
-      "date": "Thu Feb 23 2023",
+      "date": "Sat Feb 25 2023",
+      "Names": "Darius Muheto",
+      "Phone": "0788109103",
+      "Emails": "muhedarius@gmail.com",
+      "T_Message": "Ndakwanga JS",
       "id": 5
-    }
-  ],
- 
-  "users": [
-    {
-      "id": 1,
-      "username": "muhedarius@gmail.com",
-      "password": "Najudykid@22"
-    },
-    {
-      "id": 2,
-      "username": "gracemanzi62@gmail.com",
-      "password": "123"
     }
   ]
 }
