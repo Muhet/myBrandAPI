@@ -1,13 +1,6 @@
 {
   "Blogs": [
     {
-      "title": "DARIUS",
-      "category": "Maintainance",
-      "messageB": "THIS IS A NEW ARTICAL YOU HAVE TO READ THIS ARTICLE BECAUSE IT IS IMPORTANT TO YOU",
-      "image": "https://thumbs.dreamstime.com/z/concept-learning-programming-languages-labeled-coding-easy-concept-learning-programming-languages-labeled-coding-205386066.jpg",
-      "id": 1
-    },
-    {
       "title": "Programming ",
       "category": "Computr",
       "messageB": "I hope this letter finds you well and happy. As I write this, I am filled with anticipation and excitement for all that you have accomplished and experienced since this moment. I trust that you have followed your dreams and taken risks to pursue the life you have always wanted.\n\nLooking back to the present, I hope that you remember the goals you set for yourself and the steps you took to achieve them. I hope that you have continued to learn and grow, both personally and professionally. I trust that you have developed new skills, made new connections, and discovered new passions along the way.\n\nI also hope that you have taken time for yourself and those you love.",
@@ -15,11 +8,18 @@
       "id": 2
     },
     {
-      "title": "Telephone Uses",
-      "category": "Software",
-      "messageB": "Be aware of using your phone because they can harm you ",
-      "image": "https://images.unsplash.com/photo-1514464750060-00e6e34c8b8c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80",
+      "title": "My Portfolio",
+      "category": "Maintainance",
+      "messageB": "hey my name is Darius from rwanda ..",
+      "image": "https://thumbs.dreamstime.com/z/concept-learning-programming-languages-labeled-coding-easy-concept-learning-programming-languages-labeled-coding-205386066.jpg",
       "id": 3
+    },
+    {
+      "title": "Coding Class",
+      "category": "Software Engeneering",
+      "messageB": "I'm opening new class of coding this coming year, if you realy want to become a greater software engeneer please join us.",
+      "image": "https://media.istockphoto.com/id/1160687924/photo/working-in-the-morning-with-businessmen-are-dipping-coffee-that-works-with-software.jpg?s=1024x1024&w=is&k=20&c=Vg0KVKGmfu69ifIppGUR2Qkg1-oCakIicWU_Tp0_Trc=",
+      "id": 4
     }
   ],
   "Comments": [
@@ -34,29 +34,48 @@
       "email": "muheto@gmail.com",
       "textarea": "skankncsdklnc;klsnvcksndcknsdlaks",
       "id": 2
+    },
+    {
+      "names": "Dusabe Isaac",
+      "email": "Isoduss90@gmail.com",
+      "textarea": "Again thank you so much Darius",
+      "id": 3
+    },
+    {
+      "names": "Muheto DariusY",
+      "email": "muhedarius@gmail.com",
+      "textarea": "jjjjjjjkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkklllllllllllllllllggggggggggggggggggggggggggggggggggggggggg",
+      "id": 4
     }
   ],
   "Project": [
     {
       "title": "new Project",
-      "image": "https://thumbs.dreamstime.com/z/concept-learning-programming-languages-labeled-coding-easy-concept-learning-programming-languages-labeled-coding-205386066.jpg",
+      "image": "https://s.tmimgcdn.com/scr/235600/235681-original.png",
       "Description": " One of my bigest archievement is that I built my first portfolio using ReactJS and tailwindcss from scratch.",
       "date": "Thu Feb 23 2023",
       "id": 1
     },
     {
       "title": "My Portfolio",
-      "image": "https://thumbs.dreamstime.com/z/concept-learning-programming-languages-labeled-coding-easy-concept-learning-programming-languages-labeled-coding-205386066.jpg",
-      "Description": "The Portifolio of mine. This my work it prove who i am and that i can capable of. try me The Portifolio of mine. This my work it prove who i am and that i can capable of. try me",
+      "image": "https://media.istockphoto.com/id/136379482/photo/books-online.jpg?s=1024x1024&w=is&k=20&c=CmWEMpyFc3H86uhOYmZ2AFqgym58EwgWu_-_qk61BpU=",
+      "Description": "This the online Book selling. this site is called buyoz where you can byu any book and pay online using paypal momo credit card etc..",
       "date": "Thu Feb 23 2023",
       "id": 2
     },
     {
-      "title": "MY Brand",
-      "image": "https://www.techrepublic.com/wp-content/uploads/2021/02/programming-coding.jpg",
-      "Description": " One of my bigest archievement is that I built my first portfolio using ReactJS and tailwindcss from scratch.",
-      "date": "Thu Feb 23 2023",
+      "title": "Online dating ",
+      "image": "https://media.istockphoto.com/id/612379758/photo/young-couple-in-love-spending-time-together-in-a-cafe.jpg?s=1024x1024&w=is&k=20&c=FxQAPpfzkh99EWZtVAlCYtlgBc3mW6mtT3M5xhAZrAI=",
+      "Description": "This is an online dating site click and read more",
+      "date": "Sun Feb 26 2023",
       "id": 3
+    },
+    {
+      "title": "Telephone Uses",
+      "image": "https://media.istockphoto.com/id/1190641416/photo/streaming-live-esport-event-on-computer-at-home.jpg?s=1024x1024&w=is&k=20&c=3SZedC1BL5_EBcJILIwHtmz610OoAEuSv0cXeOi3wRU=",
+      "Description": "This is an other special cooks for you gauys",
+      "date": "Sun Feb 26 2023",
+      "id": 4
     }
   ],
   "profileUpdate": [
@@ -85,7 +104,7 @@
       "Phone": "0788109103",
       "Emails": "kkabila90@gmail.com",
       "T_Message": "Hey Darius",
-      "id": 3
+      "id": 2
     },
     {
       "date": "Sat Feb 25 2023",
@@ -93,6 +112,22 @@
       "Phone": "0785804938",
       "Emails": "uwamahoroeliane016@gmail.com",
       "T_Message": "hey hey how are you",
+      "id": 3
+    },
+    {
+      "date": "Sat Feb 25 2023",
+      "Names": "Isaac Dusabe",
+      "Phone": "0785804938",
+      "Emails": "uwamahoroIsaac@gmail.com",
+      "T_Message": "hey hey how are you",
+      "id": 3
+    },
+    {
+      "date": "Sun Feb 26 2023",
+      "Names": "Dusabe Isaac",
+      "Phone": "0788109103",
+      "Emails": "Isoduss90@gmail.com",
+      "T_Message": "I like this idea of opening this class, i'm interested i sure will join you. thank you again",
       "id": 4
     }
   ]
