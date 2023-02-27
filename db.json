@@ -6,7 +6,7 @@
       "messageB": "I hope this letter finds you well and happy. As I write this, I am filled with anticipation and excitement for all that you have accomplished and experienced since this moment. I trust that you have followed your dreams and taken risks to pursue the life you have always wanted.\n\nLooking back to the present, I hope that you remember the goals you set for yourself and the steps you took to achieve them. I hope that you have continued to learn and grow, both personally and professionally. I trust that you have developed new skills, made new connections, and discovered new passions along the way.\n\nI also hope that you have taken time for yourself and those you love.",
       "image": "https://thumbs.dreamstime.com/z/software-web-development-programming-concept-languages-java-program-239627335.jpg",
       "date": "Thu Feb 23 2023",
-      "id": 2
+      "id": 1
     },
     {
       "title": "My Portfolio",
@@ -14,7 +14,7 @@
       "messageB": "hey my name is Darius from rwanda ..",
       "image": "https://thumbs.dreamstime.com/z/concept-learning-programming-languages-labeled-coding-easy-concept-learning-programming-languages-labeled-coding-205386066.jpg",
       "date": "Thu Feb 23 2023",
-      "id": 3
+      "id": 2
     },
     {
       "title": "Coding Class",
@@ -22,6 +22,14 @@
       "messageB": "I'm opening new class of coding this coming year, if you realy want to become a greater software engeneer please join us.",
       "image": "https://media.istockphoto.com/id/1160687924/photo/working-in-the-morning-with-businessmen-are-dipping-coffee-that-works-with-software.jpg?s=1024x1024&w=is&k=20&c=Vg0KVKGmfu69ifIppGUR2Qkg1-oCakIicWU_Tp0_Trc=",
       "date": "Thu Feb 23 2023",
+      "id": 3
+    },
+    {
+      "title": "Computer",
+      "category": "Maintainance",
+      "messageB": "It's been a while without seing each other",
+      "image": "https://unsplash.com/photos/e616t35Vbeg",
+      "date": "Mon Feb 27 2023",
       "id": 4
     },
     {
@@ -131,7 +139,7 @@
       "Phone": "0785804938",
       "Emails": "uwamahoroIsaac@gmail.com",
       "T_Message": "hey hey how are you",
-      "id": 3
+      "id": 4
     },
     {
       "date": "Sun Feb 26 2023",
@@ -139,7 +147,7 @@
       "Phone": "0788109103",
       "Emails": "Isoduss90@gmail.com",
       "T_Message": "I like this idea of opening this class, i'm interested i sure will join you. thank you again",
-      "id": 4
+      "id": 5
     }
   ]
 }
